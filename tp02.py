@@ -38,6 +38,7 @@ genere_liste_alea(liste)
 print(liste)
 # print(int(3))	
 liste2 = tri_fusion(liste) 
+print('toto')
 print(liste2)
 
 
